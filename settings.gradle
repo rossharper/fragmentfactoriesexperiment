@@ -1,0 +1,8 @@
+include ':app'
+rootProject.name = "FragmentFactoryExperiment"
+include ':cars-main'
+include ':cars-entitites'
+include ':cars-bff-client'
+include ':cars-search'
+include ':cars-packages'
+include ':booking-stats-service'
